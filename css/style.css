@@ -1,0 +1,476 @@
+*{
+    margin: 0px;
+    
+    }
+    .div1{
+    height: 70px;
+    width: 100%;
+    background-color: whitesmoke;
+    position: fixed;
+    top: 0px;
+    padding-left: 129px;
+    padding-right: 200px;
+    padding-top: 20px;
+    display: flex;
+    
+    }
+    .dogger{
+    font-size: 35px;
+    }
+    .err{
+    color: gray;
+    }
+    body{
+        font-family: 'Dancing Script', cursive;
+       
+    }
+    
+    .div1 li{
+    display: inline;
+    padding-right: 50px;
+    
+    
+    
+    }
+    .treee a {
+    text-decoration: none;
+    font-size: 30px;
+    color: black;
+    
+    }
+    
+    .treee{
+    padding-left: 500px;
+    padding-top: 12px;
+    }
+    .treee a:hover {
+    color: gray;
+    }
+    /* new section */
+    .anime{
+        margin-top:180px ;
+    display: flex;
+    justify-content: space-evenly;
+    }
+    .trew{
+    margin-top: 100px;
+    font-size: 67px;
+    font-weight: 800;
+    }
+    .tfr{
+    font-size: 30px;
+    
+    }
+    .eewe{
+    border-radius: 30px;
+    
+    }
+    .rtew{
+    width: 100%;
+    height: 250px;
+    background-color: white;
+    margin-top: 170px;
+    /* margin-left: 500px; */
+    text-align: center;
+    }
+    .icon3{
+    color: #1494f5;
+    rotate: 30deg;
+    font-size: 54px;
+    margin-right: 50px;
+    margin-left: 54px;
+    }
+    .icon5{
+        color: #1494f5;
+        rotate: 30deg;
+        font-size: 54px;
+        margin-right: 50px;
+    }
+    
+    .icon7{
+        color: #1494f5;
+        rotate: 30deg;
+        font-size: 54px;
+        margin-right: 50px;
+    }
+    .bts{
+    font-size: 70px;
+       font-weight: 800; 
+    }
+    .fgh{
+    font-size: 40px;
+    
+    
+    }
+    /* siction2 */
+    .bst{
+    width: 80%;
+    height: 300px;
+    /* background-color: whitesmoke; */
+    text-align: center;
+    margin: auto;
+    display: flex;
+    justify-content: space-evenly;
+    }
+    .fsd{
+    width: 500px;
+    height:400px;
+    /* background-color: black; */
+    }
+    .tsb{
+        width: 500px;
+        height: 400px;
+        /* background-color: black; */
+    }
+    .wwe{
+    border-radius: 30px;
+    background-color: rgb(7, 5, 5);
+    width: 100px;
+    height: 40px;
+    }
+    .ter{
+    height: 300px;
+    width: 530px;
+    border-radius: 30px;
+    }
+    
+    
+    
+    
+    .ghf{
+    font-size: 50px;
+    margin-top: 50px;
+    }
+    
+    .dfgh{
+    font-size: 30px;
+    
+    }
+    .sdf{
+    color: azure;    
+    }
+    .sdf:hover{
+    color: aqua;    
+    }
+    
+    /* siction 4 */
+    .iuy{
+    height:590px;
+    width:100%;
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 100px;
+    }
+    .ert{
+    color: #1494f5;
+    
+    
+    }
+    .jkl{
+    color: black;
+    
+    
+    }
+    .zxc{
+    color: aqua;
+    
+    
+    
+    }
+    .ytr{
+    font-size:40px;
+    font-weight: 900;
+    
+    }
+    .rayam{
+    font-size:30px;
+    
+    }
+    .rayyan{
+    font-size: 30px;
+    
+    }
+    .ahmad{
+    font-size: 30px;
+    }
+    .mohamad{
+        font-size: 30px;
+    }
+    .khalid{
+        font-size: 30px;
+    }
+    .asd img{
+    height:497px;
+    width: 500px;
+    border-radius: 30px;
+    }
+    .bnm{
+    padding-top:100px ;
+    
+    }
+    /* siction 5 */
+    .muzan{
+    width: 100%;
+    height: 700px;
+    background-color: #f5f5f5;
+    padding-top: 70px;
+    }
+    .css1{
+    margin-left: 600px;
+    color:black;
+    text-align: center;
+    font-size: 50px;
+    }
+    .heba{
+    font-size: 50px;
+    text-align: center;
+    }
+    .doll{
+    font-size:25px;
+    font-weight: 900;
+    text-align: center;
+    }
+    .wre{
+     width: 100%;  
+     height: 700px; 
+    display: flex;
+    justify-content: space-evenly;
+    
+    }
+    .dera,.mera,.fera{
+    width: 350px;
+    height: 300px;
+    background-color: whitesmoke;
+    text-align: center;
+    margin-top: 50px;
+    }
+    .abcd{
+    font-size:15px;
+    font-weight: 200;
+    color: rgb(7, 7, 7);
+    }
+    .css2{
+    color:black;
+    text-align: center;
+    font-size: 50px;   
+    }
+    /* section 6 */
+    .abusabha{
+    width: 100%;
+    height: 600px;
+    background-color: white;
+    text-align: center;
+    padding-top: 70px;
+    }
+    .my3{
+    font-size: 50px;  
+    font-weight: 900;  
+    }
+    .my5{
+    font-size: 30px;
+    font-weight: 900;
+    }
+    .my7{
+    width: 700px;
+    height: 400px;
+     background-color: white;   
+    }
+    .my9{
+    font-size: 30px;
+    font-weight: 900;
+    }
+    .my1{
+    width: 500px;
+    height: 400px;
+    background-color: white;    
+    }
+    .my10{
+    width: 100%;
+    height: 400px;
+    background-color: white;
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 60px;
+    }
+    .my1 img{
+    border-radius: 30px;
+    }
+    .my7 span{
+     font-size:30px ;  
+     font-weight: 900;  
+    }
+    /* section7 */
+    .pronoun{
+    width: 100%;  
+    height:1100px ;  
+    background-color: whitesmoke;
+    }
+    
+    .abdo{
+    margin-left: 600px;
+    margin-top: 30px;
+    }
+    .gdsa{
+    margin-left: 50px;
+    margin-top: 30px;
+    }
+    .yqwe{
+       margin-left: 50px;
+       margin-top: 30px;
+    }
+    .abu{
+    width: 96%;
+    height: 800px;
+    
+    padding-left: 40px;
+    }
+    .abu img{
+    width: 300px; 
+    height: 300px;  
+    border-radius: 30px;
+    margin-left: 15px; 
+    }
+    .abcb{
+    font-size: 50px;    
+    text-align: center;
+    margin-bottom: 30px;
+    }
+    /* section8 */
+    .esda{
+    width: 100%;
+    height: 1000px;
+    padding-top: 50px;
+    text-align: center;
+    }
+    .esda i{
+    text-align: center;
+    }
+    .abmin{
+    font-size: 30px;
+    font-weight:700; 
+    text-align: center;   
+    }
+    .asmin{
+    font-size: 30px;
+    font-weight:700 ; 
+    text-align: center;   
+    }
+    .hhhfdsaatg{
+    font-size: 30px;   
+    font-weight: 600; 
+    }
+    .ewwqwer{
+        height: 300px;
+    display: flex;
+    justify-content: space-evenly; 
+    margin-top: 100px;   
+    }
+    .ewwqwer div{
+    width: 250px;  
+    height: 260px;  
+    }
+    /* section9 */
+.asdfre{
+    width: 100%;
+    height: 500px;
+    background-color: whitesmoke;
+    padding-top: 50px;
+}
+.qween1{
+margin-left:50px;
+font-size: 30px;
+}
+.meen{
+ font-size: 30px; 
+}
+.reen{
+font-size: 30px;
+}
+.bp{
+font-size: 30px; 
+}
+.tf{
+font-size: 20px;
+font-weight: 700;    
+}
+.asdfre h4{
+text-align: center;    
+}
+.asdfre p{
+text-align: center;    
+}
+.sidfhll{
+width: 100%;
+height: 330px;
+display: flex;
+justify-content: space-evenly;
+margin-top: 50px;    
+}
+.gh{
+font-size: 30px;    
+}
+.wq{
+font-size: 30px;    
+}
+.iuytrtr{
+font-size: 30px;   
+}
+.sidfhll p{
+font-size: 20px;    
+}
+.sidfhll div{
+width: 350px;    
+}
+/* section10 */
+.gffff{
+width:700px;
+height: 1000px;
+background-color: #a2c0be; 
+}
+.fff{
+width: 100%;
+height: 700px; 
+display: flex;
+justify-content: center;   
+}
+.gffff input{
+height: 50px;
+width: 150px;
+border: none;
+border-radius: 10px;
+margin-bottom: 20px;
+}
+.gffff label{
+font-size: 20px;
+font-weight: 700;    
+}
+.wqwq{
+font-size: 30px;
+font-weight: 700;
+margin-bottom: 30px; 
+padding-top: 30px;  
+}
+.oio{
+background-color: black; 
+color: white; 
+border-radius: 100px;
+width: 80px;
+height: 40px;  
+}
+.fbb{
+width: 700px;
+height: 1000px;
+background-color: wheat;    
+}
+.fbb i{
+padding-top: 200px;
+margin-left: 30px;    
+}
+.w{
+font-size: 30px;
+font-weight: 900;    
+}
+.v{
+font-size: 30px;
+font-weight: 700;    
+}
